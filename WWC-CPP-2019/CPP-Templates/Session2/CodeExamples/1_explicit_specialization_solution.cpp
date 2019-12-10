@@ -1,3 +1,4 @@
+
 // Example 4: Illustrating Moral #2 
 // 
 #include <iostream>
